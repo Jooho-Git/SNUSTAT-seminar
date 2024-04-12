@@ -1,3 +1,3 @@
 # SNUSTAT-seminar
 
-This is a test repository for first year graduate student seminar in SNU
+This is a test repository for First Year Graduate Student Seminar in SNU
